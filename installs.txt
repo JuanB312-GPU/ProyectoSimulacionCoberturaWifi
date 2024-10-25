@@ -1,0 +1,3 @@
+pygame
+Error solution de modulo pygame en linux:
+https://stackoverflow.com/questions/72110384/libgl-error-mesa-loader-failed-to-open-iris
