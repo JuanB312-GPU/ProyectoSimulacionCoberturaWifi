@@ -4,7 +4,7 @@ Este proyecto tiene como objetivo emular la cobertura WiFi en un edificio utiliz
 
 ## Características
 
-- Visualización de la cobertura WiFi en 2D.
+- Visualización de la cobertura WiFi en 3D.
 - Configuración de obstáculos (como paredes) que afectan la propagación de la señal.
 - Ajuste dinámico de la intensidad de la señal.
 - Interfaz gráfica para representar visualmente las áreas cubiertas y las zonas sin señal.
